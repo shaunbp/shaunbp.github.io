@@ -97,7 +97,7 @@
 }
 
 /** When cursor hovers over: HOME | PROJECTS | RESUME
-**  the text changes color according to the code below */
+/**  the text changes color according to the code below */
 .navbar__links:hover {
     color: #f77062;
     transition: all 0.3s ease;
