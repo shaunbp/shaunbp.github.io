@@ -54,6 +54,7 @@
     text-align: center;
 }
 
+/** Adjusts the items on the navbar */
 .navbar__item {
     height: 80px;
 }
@@ -91,13 +92,13 @@
     color: #fff;
 }
 
+/** Red Button on Navbar changes color when hovered */
 .button:hover {
     background: #4837ff;
     transition: all 0.3s ease;
 }
 
-/** When cursor hovers over: HOME | PROJECTS | RESUME
-/**  the text changes color according to the code below */
+/** Items on Navbar change color when hovered */
 .navbar__links:hover {
     color: #f77062;
     transition: all 0.3s ease;
